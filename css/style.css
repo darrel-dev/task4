@@ -586,6 +586,10 @@ form > button {
         row-gap: 30px;
         margin: 60px 0px 0px 0px;
     }
+    .img-blog {
+        display: flex;
+        flex-direction: column;
+    }
     .insights {
         width: 100%;
         padding: 0px 20px;
